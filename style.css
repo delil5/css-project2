@@ -1,0 +1,13 @@
+h1{
+    color: white;
+    font-size: larger;
+    background-color: black;
+}
+ol{
+    font-weight: normal;
+    font-size: large;
+}
+img {
+    width: 400px;
+    height: 200px;
+}
